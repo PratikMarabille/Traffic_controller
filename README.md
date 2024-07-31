@@ -1,2 +1,2 @@
 # Traffic_controller
- 
+The Traffic Light Controller is a digital system designed to manage traffic signals at a four-way intersection using a finite state machine (FSM) approach. Implemented in Verilog, the controller orchestrates the transition between green, yellow, and red lights for the north, south, east, and west directions. By accurately managing the timing and sequence of lights, the system aims to optimize traffic flow and enhance safety at intersections.
